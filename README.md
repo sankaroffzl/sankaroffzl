@@ -17,7 +17,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:midhunnk2019@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:sankaranathan2762005@gmail.com"><img src="https://img.shields.io/badge/📧_sankaranathan2762005@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
@@ -25,9 +25,6 @@
 <h3>🌐 Socials</h3>
   
 <p align="left">
-  <a href="https://dev.to/midhun-nk">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
-  </a>
 
 
   <a href="https://github.com/sankaroffzl">
@@ -100,7 +97,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=sankaroffzl&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 ---
@@ -108,7 +105,7 @@
 ## ❤️ Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/midhun_mike">
+  <a href="https://www.buymeacoffee.com/">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
 </p>
