@@ -29,7 +29,12 @@
 
 ## 🧠 About Me
 
-<img align="right" width="340" src="assets/hud-transparent.gif" alt="HUD robot" />
+<p align="center">
+  <img src="assets/about-bg-transparent.svg" width="100%" alt="About Me — transparent HUD watermark" />
+</p>
+
+<details>
+<summary><i>About Me — text version</i></summary>
 
 **Harness Engineer** designing the glue between models and reality — memory, skills, prompt orchestration, and multi-agent workflows. I work in the <a href="https://opencode.ai">OpenCode</a> ecosystem building persistent harness infrastructure.
 
@@ -43,14 +48,7 @@ I build systems that are:
 - ⚡ **Fast & reliable** — clean architecture, real-world performance
 - 🤖 **Agent-native** — built for autonomous execution
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Harness--driven-58A6FF?style=flat-square&logo=stackshare&logoColor=white" alt="Harness-driven" />
-  <img src="https://img.shields.io/badge/Open%20by%20default-3FB950?style=flat-square&logo=github&logoColor=white" alt="Open by default" />
-  <img src="https://img.shields.io/badge/Fast%20%26%20reliable-8957E5?style=flat-square&logo=zap&logoColor=white" alt="Fast & reliable" />
-  <img src="https://img.shields.io/badge/Agent--native-FF7B72?style=flat-square&logo=openai&logoColor=white" alt="Agent-native" />
-</p>
-
-<br clear="right"/>
+</details>
 
 ---
 
