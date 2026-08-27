@@ -30,7 +30,7 @@
 ## 🧠 About Me
 
 <p align="center">
-  <img src="assets/about-bg-transparent.svg" width="100%" alt="About Me — transparent HUD watermark" />
+  <img src="assets/about-me-animated.gif" width="100%" alt="About Me — transparent HUD watermark 50%" />
 </p>
 
 <details>
