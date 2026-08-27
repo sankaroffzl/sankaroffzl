@@ -21,7 +21,7 @@
 
 ## 🧠 About Me
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212257467-875e32c9-dcc5-435e-81e5-a3d314f7d7f7.gif"/>
+<img align="right" width="320" src="https://user-images.githubusercontent.com/93015226/224986854-132ccdcc-b7ed-46f7-9a45-3fded3842c9e.gif"/>
 
 **Harness Engineer** designing the glue between models and reality — memory, skills, prompt orchestration, and multi-agent workflows. I work in the <a href="https://opencode.ai">OpenCode</a> ecosystem building persistent harness infrastructure.
 
