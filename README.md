@@ -21,12 +21,7 @@
 
 ## 🧠 About Me
 
-<p align="center">
-  <img src="assets/hud-about.svg" width="100%" alt="Harness Engineer • OSS Developer — HUD background" />
-</p>
-
-<details>
-<summary><i>About Me — text version</i></summary>
+<img align="right" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 **Harness Engineer** designing the glue between models and reality — memory, skills, prompt orchestration, and multi-agent workflows. I work in the <a href="https://opencode.ai">OpenCode</a> ecosystem building persistent harness infrastructure.
 
@@ -40,7 +35,7 @@ I build systems that are:
 - ⚡ **Fast & reliable** — clean architecture, real-world performance
 - 🤖 **Agent-native** — built for autonomous execution
 
-</details>
+<br clear="right"/>
 
 ---
 
