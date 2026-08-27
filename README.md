@@ -77,22 +77,22 @@ Model  →  Harness  →  Memory  →  Skills  →  Verified Output
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,dart,c,java,lua,bash" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,lua,bash,go,html,css" />
 </p>
 
 ### 📚 Frameworks & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flutter,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,fastapi" />
 </p>
 
 ### 🗄 Databases & Vector
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql,redis" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,firebase" />
 </p>
 
 ### 🧰 Harness, Tools & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,gcp,postman,linux,docker,neovim" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,arch,docker,neovim,vscode" />
 </p>
 
 <details>
@@ -100,8 +100,10 @@ Model  →  Harness  →  Memory  →  Skills  →  Verified Output
 <br>
 
 - **Harness:** OpenCode, Agent Harness, Skills/Memory Store, RLM Bridge
-- **AI:** LLMs, RAG, Vector DBs, Prompt Engineering, Agent Orchestration
-- **Systems:** Hyprland, Waybar, Arch Linux, Dotfiles-driven reproducibility
+- **Languages:** TypeScript • Python • Lua • Bash • Go — typed harness logic + system scripting
+- **Frameworks:** React/Next.js (UI), Node/Express + FastAPI (APIs), Tailwind
+- **Data:** PostgreSQL • MongoDB • Redis • Firebase — relational + vector/cache
+- **Systems:** Arch Linux • Hyprland • Waybar • Ghostty • Neovim • Tmux • Zsh — dotfiles-driven reproducibility ([dotfiles](https://github.com/sankaroffzl/dotfiles))
 - **Practices:** Verification-before-completion, Spec-driven dev, Git worktrees
 
 </details>
