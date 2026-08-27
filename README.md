@@ -4,12 +4,17 @@
 </p>
 
 <h1 align="center">👋 Hey, I'm Sankar</h1>
-<h3 align="center">🚀 Full Stack Developer | 🤖 AI & LLM Engineer | 🧠 Generative AI Explorer</h3>
+<h3 align="center">🔧 Harness Engineer &nbsp;•&nbsp; 🌍 OSS Developer &nbsp;•&nbsp; ⚡ Open Systems Builder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sankaroffzl&style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Based%20in-India-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Harness%20Engineering-blueviolet?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <em>Building agent harnesses, memory & skill systems that make AI actually useful — in the open.</em>
 </p>
 
 ---
@@ -18,18 +23,115 @@
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
 
-🎓 AI Student passionate about **LLMs, NLP & Generative AI**  
-💻 Full Stack Developer building scalable web apps & APIs  
-⚡ Focused on performance, clean architecture & real-world impact  
-🌱 Currently exploring: **RAG • Vector Databases • AI SaaS Systems**
+**Harness Engineer** designing the glue between models and reality — memory, skills, prompt orchestration, and multi-agent workflows. I work in the <a href="https://opencode.ai">OpenCode</a> ecosystem building persistent harness infrastructure.
 
-I build products that are:
-- Fast ⚡  
-- Scalable 📈  
-- Visually Engaging 🎨  
-- AI-Driven 🤖  
+**OSS Developer** — I ship open source. Tools, dotfiles, ML experiments, and system configs. If it helps someone else build faster, it belongs in public.
+
+**Previously:** Full Stack Developer & AI/LLM Engineer focused on RAG, vector databases, and AI SaaS. That foundation now powers harness-first architecture.
+
+I build systems that are:
+- 🧩 **Harness-driven** — composable skills & memory, not one-off prompts
+- 🔓 **Open by default** — reproducible, forkable, documented
+- ⚡ **Fast & reliable** — clean architecture, real-world performance
+- 🤖 **Agent-native** — built for autonomous execution
 
 <br clear="right"/>
+
+---
+
+## ⚙️ What I Do — Harness Engineering
+
+> The model is the engine. The harness is the car.
+
+**Memory & Context** — persistent memory stores, prompt notes, and context compression that survives across sessions
+
+**Skills & Orchestration** — reusable skill definitions, subagent dispatch, and advisor → worker patterns for complex tasks
+
+**Agent Systems** — RLM bridges, multi-agent coordination, verification gates, and production harness reliability
+
+**Open Source Systems** — dotfiles, waybar configs, and dev tooling that make Linux + AI workflows reproducible
+
+```text
+Model  →  Harness  →  Memory  →  Skills  →  Verified Output
+         (my focus)
+```
+
+---
+
+## 🌍 Open Source
+
+- 🔧 **Harness & Tooling** — OpenCode harness, RLM bridges, agent orchestration patterns
+- 🐧 **Linux Systems** — `dotfiles` & `waybar-dotfile` — Hyprland setup, reproducible dev environment
+- 🧪 **ML Experiments** — `image-accuracy-finder`, stock & house price prediction — practical AI, not demos
+- 📚 **Always Shipping** — if I learn it, I open-source it
+
+<p align="center">
+  <a href="https://github.com/sankaroffzl?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,dart,c,java,lua,bash" />
+</p>
+
+### 📚 Frameworks & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flutter,tailwind,bootstrap" />
+</p>
+
+### 🗄 Databases & Vector
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql,redis" />
+</p>
+
+### 🧰 Harness, Tools & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,gcp,postman,linux,docker,neovim" />
+</p>
+
+<details>
+<summary><b>🧰 Harness Stack Detail</b></summary>
+<br>
+
+- **Harness:** OpenCode, Agent Harness, Skills/Memory Store, RLM Bridge
+- **AI:** LLMs, RAG, Vector DBs, Prompt Engineering, Agent Orchestration
+- **Systems:** Hyprland, Waybar, Arch Linux, Dotfiles-driven reproducibility
+- **Practices:** Verification-before-completion, Spec-driven dev, Git worktrees
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sankaroffzl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankaroffzl&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankaroffzl&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sankaroffzl&theme=tokyonight&no-frame=true&column=7" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- 🔧 **Harness Engineering** — memory, skills, and orchestration for long-running agents
+- 🌍 **Open Source Systems** — reproducible tooling that others can fork and extend
+- 🤖 **Agent Reliability** — verification gates, context compression, failure recovery
+- 🐧 **Linux + AI Workflows** — Hyprland, dotfiles, and local-first AI tooling
+- 📖 **Building in Public** — documenting what I learn, as I learn it
 
 ---
 
@@ -52,57 +154,14 @@ I build products that are:
 
 ---
 
-# 🛠 Tech Stack
-
-## 💻 Programming
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,dart,c,java" />
-</p>
-
-## 📚 Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flutter,tailwind,bootstrap" />
-</p>
-
-## 🗄 Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
-</p>
-
-## 🧰 Tools & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,gcp,postman,androidstudio" />
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sankaroffzl&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankaroffzl&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankaroffzl&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🚀 Current Focus
-
-- 🧠 Large Language Models (LLMs)
-- 📊 AI-based Web Applications
-- 🔎 Retrieval-Augmented Generation (RAG)
-- ☁️ Deploying AI apps on Cloud
-- 🏗 Building AI SaaS products
-
----
-
-# ❤️ Support My Work
+## ❤️ Support My Work
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
+</p>
+
+<p align="center">
+  <sub>OSS Developer • Harness Engineer • Building open systems that outlive the hype.</sub>
 </p>
