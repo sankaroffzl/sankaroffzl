@@ -158,17 +158,67 @@ Model  →  Harness  →  Memory  →  Skills  →  Verified Output
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sankaroffzl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankaroffzl&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://img.shields.io/badge/Analytics-dark-0d1117?style=flat-square&labelColor=0d1117&color=58A6FF" alt="" />
+  <img src="https://img.shields.io/badge/Profile-sankaroffzl-21262d?style=flat-square&logo=github&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Updated-live-3FB950?style=flat-square" alt="" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankaroffzl&theme=tokyo-night&hide_border=true" />
-</p>
+<div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sankaroffzl&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sankaroffzl&theme=tokyonight&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="Streak Stats" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankaroffzl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=12&langs_count=6&hide=html" alt="Top Languages" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sankaroffzl&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=12&layout=compact" alt="WakaTime — fallback shows stats if configured" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sankaroffzl&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF" alt="Activity Graph" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sankaroffzl&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Trophy" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<details>
+<summary><i>Other views</i></summary>
+<br>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sankaroffzl&theme=tokyonight&no-frame=true&column=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sankaroffzl&theme=tokyonight" width="100%" alt="Profile Details" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sankaroffzl&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sankaroffzl&theme=tokyonight&utcOffset=5.5" width="48%" />
+</p>
+</details>
 
 ---
 
