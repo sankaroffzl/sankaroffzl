@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=90&section=header&text=&fontSize=0&animation=fadeIn" width="100%" alt="header wave" />
+</p>
+
 <!-- ==================== BANNER ==================== -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" />
@@ -5,6 +9,10 @@
 
 <h1 align="center">👋 Hey, I'm Sankar</h1>
 <h3 align="center">🔧 Harness Engineer &nbsp;•&nbsp; 🌍 OSS Developer &nbsp;•&nbsp; ⚡ Open Systems Builder</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Harness+Engineering+in+the+Open;Memory+%E2%80%A2+Skills+%E2%80%A2+Agents+%E2%80%A2+Verification;Building+systems+that+outlive+the+hype" alt="Typing animation" /></a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sankaroffzl&style=for-the-badge&color=blue" />
@@ -21,7 +29,7 @@
 
 ## 🧠 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img align="right" width="340" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="HUD robot" style="border-radius:16px;" />
 
 **Harness Engineer** designing the glue between models and reality — memory, skills, prompt orchestration, and multi-agent workflows. I work in the <a href="https://opencode.ai">OpenCode</a> ecosystem building persistent harness infrastructure.
 
@@ -34,6 +42,13 @@ I build systems that are:
 - 🔓 **Open by default** — reproducible, forkable, documented
 - ⚡ **Fast & reliable** — clean architecture, real-world performance
 - 🤖 **Agent-native** — built for autonomous execution
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Harness--driven-58A6FF?style=flat-square&logo=stackshare&logoColor=white" alt="Harness-driven" />
+  <img src="https://img.shields.io/badge/Open%20by%20default-3FB950?style=flat-square&logo=github&logoColor=white" alt="Open by default" />
+  <img src="https://img.shields.io/badge/Fast%20%26%20reliable-8957E5?style=flat-square&logo=zap&logoColor=white" alt="Fast & reliable" />
+  <img src="https://img.shields.io/badge/Agent--native-FF7B72?style=flat-square&logo=openai&logoColor=white" alt="Agent-native" />
+</p>
 
 <br clear="right"/>
 
@@ -155,6 +170,10 @@ Model  →  Harness  →  Memory  →  Skills  →  Verified Output
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer&text=&fontSize=0" width="100%" alt="footer wave" />
+</p>
 
 ## ❤️ Support My Work
 
