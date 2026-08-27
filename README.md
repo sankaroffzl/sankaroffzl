@@ -90,25 +90,59 @@ Model  →  Harness  →  Memory  →  Skills  →  Verified Output
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,lua,bash,go,html,css" />
+  <img src="https://img.shields.io/badge/Stack-dark-0d1117?style=flat-square&labelColor=0d1117&color=58A6FF" alt="" />
+  <img src="https://img.shields.io/badge/TS%20%7C%20JS%20%7C%20Python%20%7C%20Lua-3178C6?style=flat-square&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/React%20%7C%20Next.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="" />
+  <img src="https://img.shields.io/badge/Tailwind%20%7C%20FastAPI-06B6D4?style=flat-square" alt="" />
 </p>
 
-### 📚 Frameworks & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,fastapi" />
-</p>
+<div align="center">
 
-### 🗄 Databases & Vector
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,firebase" />
-</p>
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
 
-### 🧰 Harness, Tools & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,arch,docker,neovim,vscode" />
-</p>
+**💻 Languages**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,lua,bash,go,html,css&theme=dark" />
+<br/><br/>
+<sub><b>TS</b> • <b>JS</b> • <b>Python</b> • <b>Lua</b> • <b>Bash</b> • <b>Go</b> • HTML • CSS</sub>
+
+</td>
+<td align="center" width="50%" valign="top">
+
+**📚 Frameworks & Platforms**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,fastapi&theme=dark" />
+<br/><br/>
+<sub><b>React</b> • <b>Next.js</b> • <b>Node</b> • <b>Express</b> • <b>Tailwind</b> • <b>FastAPI</b></sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+**🗄 Databases & Vector**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,firebase&theme=dark" />
+<br/><br/>
+<sub><b>PostgreSQL</b> • <b>MongoDB</b> • <b>Redis</b> • <b>Firebase</b></sub>
+
+</td>
+<td align="center" width="50%" valign="top">
+
+**🧰 Harness, Tools & Cloud**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,arch,docker,neovim,vscode&theme=dark" />
+<br/><br/>
+<sub><b>Git</b> • <b>GitHub</b> • <b>Linux</b> • <b>Arch</b> • <b>Docker</b> • <b>Neovim</b> • <b>VSCode</b></sub>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <details>
 <summary><b>🧰 Harness Stack Detail</b></summary>
